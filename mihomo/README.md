@@ -1,0 +1,3 @@
+# mihomo
+
+This directory is intentionally kept in the repository.
